@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(60, 88, 79);
+}
+table{
+    margin: auto;
+    max-width: 900px;
+    margin-top: 30px;
+    text-align: center;
+	list-style-position: inside;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+td{
+    
+    margin-top: px;
+    color: rgb(69, 75, 70);
+    border-width: 3px;
+	border-style: solid; 
+	border-radius: 10px;
+	border-color: #999ca3;
+}
+th{
+    border-width: 6px;
+	border-style: ridge; 
+	border-radius: 15px;
+	border-color: #d5d0e2;
+
+}
+   
